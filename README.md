@@ -44,25 +44,38 @@ I worked with two teammates on a desktop application for restaurant staff and cu
 
 ## Problem solving
 
-I keep my implementations and coursework in separate repositories so it’s easy to find a specific exercise.
+I practice algorithms in C and C++ and use small C# and Java programs to explore how objects, classes, and data structures work.
 
-- [Data Structures in C++](https://github.com/Farhan-Sijan/Data-Stracture) — linked lists, circular queues, binary search, and sorting.
-- [Phitron CSE Fundamentals](https://github.com/Farhan-Sijan/Phitron-Course) — C exercises on strings, recursion, and matrices, plus C++ practice with dynamic arrays.
-- [C# Console Practice](https://github.com/Farhan-Sijan/CSharp-Console-Practice) and [Java Practice](https://github.com/Farhan-Sijan/Java_Practice) — smaller exercises in arrays, classes, and object-oriented programming.
+| Practice repository | What’s inside |
+| :--- | :--- |
+| [**Data Structures in C++**](https://github.com/Farhan-Sijan/Data-Stracture) | Linked lists, circular queues, binary search, and sorting |
+| [**Phitron CSE Fundamentals**](https://github.com/Farhan-Sijan/Phitron-Course) | Strings, recursion, matrix problems, and dynamic arrays |
+| [**C# Console Practice**](https://github.com/Farhan-Sijan/CSharp-Console-Practice) | Arrays, loops, methods, and encapsulation |
+| [**Java Practice**](https://github.com/Farhan-Sijan/Java_Practice) | Classes, abstraction, and relationships between objects |
 
-**Coding profiles** &nbsp; [HackerRank](https://www.hackerrank.com/profile/hasinsizan60) · [Codeforces](https://codeforces.com/profile/Farhan_Sijan60)
+<p align="center">
+  <a href="https://www.hackerrank.com/profile/hasinsizan60"><img src="https://img.shields.io/badge/HackerRank-hasinsizan60-733F46?style=flat-square&amp;logo=hackerrank&amp;logoColor=FFD9B8&amp;labelColor=352636" alt="HackerRank profile for hasinsizan60"></a>
+  &nbsp;
+  <a href="https://codeforces.com/profile/Farhan_Sijan60"><img src="https://img.shields.io/badge/Codeforces-Farhan__Sijan60-60457B?style=flat-square&amp;logo=codeforces&amp;logoColor=F4DAFF&amp;labelColor=352636" alt="Codeforces profile for Farhan_Sijan60"></a>
+</p>
 
-<details>
-  <summary><strong>GitHub activity</strong></summary>
-  <br>
-  <img src="https://github-stats-extended.vercel.app/api?username=Farhan-Sijan&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true" alt="Farhan's GitHub statistics" height="155">
-  <img src="https://streak-stats.demolab.com/?user=Farhan-Sijan&amp;theme=tokyonight&amp;hide_border=true" alt="Farhan's contribution streak" height="155">
+## GitHub activity
 
-  [Browse all repositories](https://github.com/Farhan-Sijan?tab=repositories)
-</details>
+<p align="center">
+  <img width="48%" src="https://github-stats-extended.vercel.app/api?username=Farhan-Sijan&amp;show_icons=true&amp;hide_rank=true&amp;bg_color=241D2B&amp;title_color=FFC79C&amp;text_color=F4E6DF&amp;icon_color=F2A383&amp;border_color=65495D&amp;border_radius=12" alt="Farhan’s GitHub statistics">
+  <img width="50%" src="https://streak-stats.demolab.com/?user=Farhan-Sijan&amp;background=241D2B&amp;border=65495D&amp;stroke=65495D&amp;ring=FFAC82&amp;fire=FF936F&amp;currStreakNum=FFD1A8&amp;sideNums=FFD1A8&amp;currStreakLabel=FFC79C&amp;sideLabels=F4E6DF&amp;dates=D9C3D3&amp;border_radius=12" alt="Farhan’s current streak, longest streak, and total contributions">
+</p>
+
+<p align="center">
+  <a href="https://github.com/Farhan-Sijan?tab=repositories">Explore all repositories →</a>
+</p>
 
 ## Get in touch
 
-I’m preparing for a software engineering internship and would be happy to collaborate on a C# or web development project.
+I’m preparing for a software engineering internship. If you’re building a C# application or a web tool and would like to collaborate, I’d be happy to hear from you.
 
-[LinkedIn](https://www.linkedin.com/in/farhan-hasin-sijan-a7ba7432b/) · [hasinsizan60@gmail.com](mailto:hasinsizan60@gmail.com)
+<p>
+  <a href="https://www.linkedin.com/in/farhan-hasin-sijan-a7ba7432b/"><img src="https://img.shields.io/badge/LinkedIn-Farhan%20Hasin%20Sijan-654A78?style=flat-square&amp;labelColor=352636" alt="Connect with Farhan Hasin Sijan on LinkedIn"></a>
+  &nbsp;
+  <a href="mailto:hasinsizan60@gmail.com"><img src="https://img.shields.io/badge/Email-hasinsizan60%40gmail.com-733F46?style=flat-square&amp;labelColor=352636" alt="Email Farhan at hasinsizan60@gmail.com"></a>
+</p>
