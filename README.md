@@ -1,111 +1,105 @@
-<!-- ======================== PROFILE HERO ======================== -->
-
-<h1 align="center">Farhan Hasin Sijan</h1>
-<h3 align="center">Software Engineering Enthusiast · CSE Undergraduate at AIUB</h3>
+<!-- Farhan Hasin Sijan | GitHub Profile -->
 
 <p align="center">
-  <em>Code with curiosity. Solve with purpose. Build with care.</em>
+  <img src="https://raw.githubusercontent.com/Farhan-Sijan/Farhan-Sijan/main/Screenshot%202026-11-27%20114400.png" alt="Farhan Hasin Sijan — CSE undergraduate and developer in Dhaka, Bangladesh" width="850" />
+</p>
+
+<h2 align="center">Aspiring Software Engineer | CSE Undergraduate at AIUB</h2>
+
+<p align="center">
+  <em>From ideas to algorithms, from algorithms to applications.</em>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Farhan-Sijan/Farhan-Sijan/main/Screenshot%202026-11-27%20114400.png" width="760" alt="Farhan's coding illustration" />
+  <b>Software Development &nbsp; · &nbsp; Problem Solving &nbsp; · &nbsp; Web Technologies</b>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/BASED_IN-DHAKA%2C_BANGLADESH-1A1B26?style=flat-square&labelColor=414868" alt="Based in Dhaka, Bangladesh" />
-  <img src="https://img.shields.io/badge/FOCUS-SOFTWARE_ENGINEERING-1A1B26?style=flat-square&labelColor=414868" alt="Focus: Software Engineering" />
+  <a href="https://www.linkedin.com/in/farhan-hasin-sijan-a7ba7432b/"><b>💼 LinkedIn</b></a>
+  &nbsp; • &nbsp;
+  <a href="https://www.hackerrank.com/profile/hasinsizan60"><b>💻 HackerRank</b></a>
+  &nbsp; • &nbsp;
+  <a href="https://codeforces.com/profile/Farhan_Sijan60"><b>🧩 Codeforces</b></a>
+  &nbsp; • &nbsp;
+  <a href="mailto:hasinsizan60@gmail.com"><b>✉️ Email</b></a>
+</p>
+
+<p align="center">
+  📍 Dhaka, Bangladesh &nbsp; | &nbsp;
   <img src="https://komarev.com/ghpvc/?username=Farhan-Sijan&label=PROFILE%20VIEWS&color=7AA2F7&style=flat-square" alt="Profile views" />
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/farhan-hasin-sijan-a7ba7432b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://www.hackerrank.com/profile/hasinsizan60"><img src="https://img.shields.io/badge/HackerRank-1A1B26?style=for-the-badge&logo=hackerrank&logoColor=2EC866" alt="HackerRank" /></a>
-  <a href="https://codeforces.com/profile/Farhan_Sijan60"><img src="https://img.shields.io/badge/Codeforces-1A1B26?style=for-the-badge&logo=codeforces&logoColor=7AA2F7" alt="Codeforces" /></a>
-  <a href="mailto:hasinsizan60@gmail.com"><img src="https://img.shields.io/badge/Email-1A1B26?style=for-the-badge&logo=gmail&logoColor=F7768E" alt="Email" /></a>
-</p>
-
 ---
 
-## 01 / Behind the Code
+## 👋 A Little About Me
 
-I'm a Computer Science and Engineering undergraduate at **American International University-Bangladesh (AIUB)**. I enjoy combining programming fundamentals with practical software projects — from writing algorithms to building desktop and web applications.
+I'm **Farhan Hasin Sijan**, a Computer Science and Engineering undergraduate at **American International University-Bangladesh (AIUB)**.
 
-```javascript
-const developer = {
-    name: "Farhan Hasin Sijan",
-    location: "Dhaka, Bangladesh",
-    interests: ["Software Engineering", "Problem Solving", "Web Development"],
-    currentlyLearning: ["Data Structures & Algorithms", "PHP"],
-    mindset: "Learn continuously, build thoughtfully, improve every day."
-};
-```
+I enjoy turning real-world problems into practical software solutions. My experience includes developing desktop applications with C# and SQL Server, creating interactive web interfaces, and strengthening my programming fundamentals through consistent problem solving.
 
-| 🎯 What I'm building | 🌱 What I'm learning | 🤝 What I'm looking for |
-| :--- | :--- | :--- |
-| Courier Management System — Rider Module | Phitron Foundation Track (Batch 10), DSA & PHP | Open-source collaboration and opportunities to grow as a developer |
+> My approach: understand the problem, design a solution, write clean code, and keep improving.
 
-## 02 / Selected Work
+| Current focus | Learning journey |
+| :--- | :--- |
+| Building the Courier Management System — Rider Module | Phitron Foundation Track (Batch 10) |
+| Practicing C and C++ problem solving | Data Structures & Algorithms |
+| Exploring web application development | PHP and server-side fundamentals |
 
-> A closer look at the projects and programming challenges shaping my journey as a software engineer.
-
-### 🚚 [Courier Management System](https://github.com/Farhan-Sijan/WebTech-Fall-2026-27/tree/main/Courier-Management-System/rider)
-
-**Web application · Rider module · University team project**
-
-A web-based courier management project designed to organize pickup and delivery tasks.
-
-- Rider registration, login, and dashboard
-- Parcel details, task filtering, and delivery status updates
-- Form validation and interactive web interfaces
-
-![HTML5](https://img.shields.io/badge/HTML5-1A1B26?style=flat-square&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-1A1B26?style=flat-square&logo=css&logoColor=7AA2F7)
-![JavaScript](https://img.shields.io/badge/JavaScript-1A1B26?style=flat-square&logo=javascript&logoColor=E9CC68)
-
-**[Explore the Rider Module →](https://github.com/Farhan-Sijan/WebTech-Fall-2026-27/tree/main/Courier-Management-System/rider)**
-
----
-
-### 🍽️ Restaurant Management System
-
-**Desktop application · Database-driven system · University team project**
-
-A desktop project for organizing menus, customer orders, payments, and restaurant operations.
-
-- Object-oriented design with C# and Windows Forms
-- SQL Server integration and CRUD operations
-- Role-based workflows for different users
-
-![C Sharp](https://img.shields.io/badge/C%23-1A1B26?style=flat-square&logo=dotnet&logoColor=BB9AF7)
-![Windows Forms](https://img.shields.io/badge/Windows_Forms-1A1B26?style=flat-square&logoColor=7AA2F7)
-![SQL Server](https://img.shields.io/badge/SQL_Server-1A1B26?style=flat-square&logoColor=F7768E)
-
----
-
-### 🧩 Programming & Problem Solving
-
-**Competitive programming · Fundamental computer science**
-
-Strengthening my programming foundations through regular practice in C and C++, including arrays, strings, recursion, matrices, algorithms, and logical thinking.
-
-**[HackerRank](https://www.hackerrank.com/profile/hasinsizan60) · [Codeforces](https://codeforces.com/profile/Farhan_Sijan60)**
-
-<p align="center">
-  <a href="https://github.com/Farhan-Sijan?tab=repositories"><img src="https://img.shields.io/badge/Explore_All_Repositories-414868?style=for-the-badge&logo=github&logoColor=white" alt="Explore all repositories" /></a>
-</p>
-
----
-
-## 03 / My Tech Stack
+## 🚀 Projects I've Worked On
 
 <table>
   <tr>
-    <td><b>Programming Languages</b></td>
+    <td width="50%" valign="top">
+      <h3>🚚 Courier Management System</h3>
+      <p><b>Web development · University team project</b></p>
+      <p>Developing a rider module to organize courier pickup and delivery tasks.</p>
+      <ul>
+        <li>Rider registration and login</li>
+        <li>Dashboard and assigned parcel tasks</li>
+        <li>Parcel status updates and form validation</li>
+      </ul>
+      <p><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="30" height="30" alt="HTML" />&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="30" height="30" alt="CSS" />&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30" height="30" alt="JavaScript" /></p>
+      <p><b><code>HTML</code> · <code>CSS</code> · <code>JavaScript</code></b></p>
+      <a href="https://github.com/Farhan-Sijan/WebTech-Fall-2026-27/tree/main/Courier-Management-System/rider"><b>View Rider Module →</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🍽️ Restaurant Management System</h3>
+      <p><b>Desktop application · Three-member team project</b></p>
+      <p>A database-driven application for managing restaurant operations.</p>
+      <ul>
+        <li>Menu, customer and order management</li>
+        <li>Payment and user-role workflows</li>
+        <li>SQL Server integration and CRUD operations</li>
+      </ul>
+      <p><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="30" height="30" alt="C#" />&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="30" height="30" alt=".NET" />&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="30" height="30" alt="SQL Server" /></p>
+      <p><b><code>C#</code> · <code>WinForms</code> · <code>SQL Server</code></b></p>
+      <a href="https://github.com/Farhan-Sijan/Restaurant-Management-System"><b>View Repository →</b></a>
+    </td>
+  </tr>
+</table>
+
+### 🧠 Learning by Doing
+
+- [C# Console Practice](https://github.com/Farhan-Sijan/CSharp-Console-Practice) — programming fundamentals, arrays, loops, conditions and OOP.
+- [Java Practice](https://github.com/Farhan-Sijan/Java_Practice) — practical Java programming exercises.
+- [HackerRank](https://www.hackerrank.com/profile/hasinsizan60) and [Codeforces](https://codeforces.com/profile/Farhan_Sijan60) — practicing algorithmic thinking and problem solving.
+
+<p align="center">
+  <a href="https://github.com/Farhan-Sijan?tab=repositories"><b>Explore all my repositories →</b></a>
+</p>
+
+---
+
+## 🛠️ Technical Toolkit
+
+<table>
+  <tr>
+    <td><b>Programming</b></td>
     <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" alt="C" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" alt="C" />&nbsp;
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" />&nbsp;
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#" />&nbsp;
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java" />&nbsp;
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python" />
       <br/>C · C++ · C# · Java · Python (Basics)
     </td>
@@ -113,40 +107,43 @@ Strengthening my programming foundations through regular practice in C and C++, 
   <tr>
     <td><b>Web Development</b></td>
     <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" alt="HTML" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" alt="CSS" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" alt="HTML" />&nbsp;
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" alt="CSS" />&nbsp;
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />&nbsp;
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40" alt="PHP" />
       <br/>HTML · CSS · JavaScript · PHP (Learning)
     </td>
   </tr>
   <tr>
-    <td><b>Frameworks & Databases</b></td>
+    <td><b>Frameworks &amp; Databases</b></td>
     <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="40" height="40" alt=".NET" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="40" height="40" alt="SQL Server" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="40" height="40" alt=".NET" />&nbsp;
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="40" height="40" alt="SQL Server" />&nbsp;
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" />
       <br/>.NET Framework · Windows Forms · SQL Server · MySQL
     </td>
   </tr>
   <tr>
-    <td><b>Development Tools</b></td>
+    <td><b>Developer Tools</b></td>
     <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40" alt="GitHub" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-original.svg" width="40" height="40" alt="Visual Studio" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git" />&nbsp;
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-original.svg" width="40" height="40" alt="Visual Studio" />&nbsp;
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code" />&nbsp;
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40" height="40" alt="Figma" />
       <br/>Git · GitHub · Visual Studio · VS Code · Figma
     </td>
   </tr>
 </table>
 
-## 04 / Developer Activity
+**Core Concepts:** Object-Oriented Programming · Data Structures · Algorithms · Database Fundamentals · CRUD Operations
+
+---
+
+## 📈 Code, Contributions & Consistency
 
 <p align="center">
   <a href="https://github.com/Farhan-Sijan"><img src="https://github-stats-extended.vercel.app/api?username=Farhan-Sijan&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub activity statistics" height="165" /></a>
-  <a href="https://github.com/Farhan-Sijan?tab=repositories"><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Farhan-Sijan&layout=compact&theme=tokyonight&hide_border=true" alt="Most used repository languages" height="165" /></a>
+  <a href="https://github.com/Farhan-Sijan?tab=repositories"><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Farhan-Sijan&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages in GitHub repositories" height="165" /></a>
 </p>
 
 <p align="center">
@@ -154,35 +151,22 @@ Strengthening my programming foundations through regular practice in C and C++, 
 </p>
 
 <p align="center">
-  <a href="https://github.com/Farhan-Sijan">View my GitHub activity and contributions</a>
+  <a href="https://github.com/Farhan-Sijan">View my contribution history on GitHub</a>
 </p>
-
-## 05 / Beyond the Repository
-
-<table>
-  <tr>
-    <td><b>🎓 Education</b></td>
-    <td>Computer Science & Engineering · AIUB</td>
-  </tr>
-  <tr>
-    <td><b>📚 Continuous Learning</b></td>
-    <td>Phitron Batch 10 · Foundation Track</td>
-  </tr>
-  <tr>
-    <td><b>💻 Coding Practice</b></td>
-    <td><a href="https://www.hackerrank.com/profile/hasinsizan60">HackerRank</a> · <a href="https://codeforces.com/profile/Farhan_Sijan60">Codeforces</a></td>
-  </tr>
-  <tr>
-    <td><b>📫 Connect</b></td>
-    <td><a href="https://www.linkedin.com/in/farhan-hasin-sijan-a7ba7432b/">LinkedIn</a> · <a href="mailto:hasinsizan60@gmail.com">Email</a></td>
-  </tr>
-</table>
 
 ---
 
+## 🤝 Let's Build Something Meaningful
+
+I'm interested in collaborating on software development and open-source projects, learning from other developers, and applying my skills to practical challenges.
+
 <p align="center">
-  <b>Every line of code is a step toward becoming a better engineer.</b>
+  <a href="https://www.linkedin.com/in/farhan-hasin-sijan-a7ba7432b/"><b>Connect on LinkedIn</b></a>
+  &nbsp; • &nbsp;
+  <a href="mailto:hasinsizan60@gmail.com"><b>Get in touch by email</b></a>
 </p>
+
 <p align="center">
-  <em>Thanks for stopping by — let's keep learning and building.</em>
+  <b>Keep learning. Keep solving. Keep building.</b><br/>
+  <em>One commit at a time.</em>
 </p>
