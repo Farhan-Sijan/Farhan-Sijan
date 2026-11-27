@@ -1,51 +1,111 @@
-<div data-importer="image" align="center">
-  <img data-importer="image" height="350" src="https://raw.githubusercontent.com/Farhan-Sijan/Farhan-Sijan/main/Screenshot%202026-11-27%20114400.png"  />
-</div>
-
-###
-
-<p data-importer="text" align="left">I'm a Computer Science and Engineering student at AIUB in Dhaka, Bangladesh. I build desktop applications with C# and SQL Server, create web interfaces with JavaScript, and practice problem solving in C and C++.</p>
-
-###
-
 <h1 align="center">Hi 👋, I'm Farhan Hasin Sijan</h1>
-<h3 align="center">CSE Undergraduate at AIUB | Exploring Software Engineering, Problem Solving & Modern Technologies</h3>
+<h3 align="center">CSE Undergraduate at AIUB | Aspiring Software Engineer</h3>
+<p align="center"><i>Turning curiosity into knowledge, ideas into code, and challenges into solutions.</i></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=farhan-sijan&label=Profile%20views&color=0e75b6&style=flat" alt="farhan-sijan" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=farhan-sijan" alt="farhan-sijan" /></a> </p>
-
-- 🔭 I’m currently working on [Courier Management System](https://github.com/Farhan-Sijan/WebTech-Fall-2026-27/tree/main/Courier-Management-System/rider)
-
-- 🌱 I’m currently learning **Data Structures & Algorithms, Problem Solving, PHP and Web Development**
-
-- 👯 I’m looking to collaborate on **Open Source and Software Development Projects**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Farhan-Sijan?tab=repositories](https://github.com/Farhan-Sijan?tab=repositories)
-
-- 💬 Ask me about **C, C++, Java, C#, Object-Oriented Programming and SQL**
-
-- 📫 How to reach me **hasinsizan60@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/farhan-hasin-sijan-a7ba7432b/](https://www.linkedin.com/in/farhan-hasin-sijan-a7ba7432b/)
-
-- ⚡ Fun fact **I turn coffee into code and bugs into learning opportunities.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/farhan-hasin-sijan-a7ba7432b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="farhan-hasin-sijan-a7ba7432b" height="30" width="40" /></a>
-<a href="https://fb.com/farhan hasin sijan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="farhan hasin sijan" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/hasinsizan60" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hasinsizan60" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/farhan_sijan60" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="farhan_sijan60" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Farhan-Sijan/Farhan-Sijan/main/Screenshot%202026-11-27%20114400.png" alt="Farhan's coding illustration" width="760" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/farhan-hasin-sijan-a7ba7432b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.hackerrank.com/profile/hasinsizan60"><img src="https://img.shields.io/badge/HackerRank-00B760?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
+  <a href="https://codeforces.com/profile/Farhan_Sijan60"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
+  <a href="mailto:hasinsizan60@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farhan-sijan&show_icons=true&locale=en&layout=compact" alt="farhan-sijan" /></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Farhan-Sijan&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=farhan-sijan&show_icons=true&locale=en" alt="farhan-sijan" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=farhan-sijan&" alt="farhan-sijan" /></p>
+## 👨‍💻 About Me
 
+I'm a Computer Science and Engineering undergraduate at **American International University-Bangladesh (AIUB)**, based in Dhaka, Bangladesh. I enjoy building practical software, exploring new technologies, and strengthening my problem-solving skills.
 
+- 🔭 Currently working on the [Courier Management System — Rider Module](https://github.com/Farhan-Sijan/WebTech-Fall-2026-27/tree/main/Courier-Management-System/rider).
+- 🌱 Currently learning **Data Structures & Algorithms, PHP, and Web Development**.
+- 🤝 Interested in collaborating on open-source and software development projects.
+- 💬 Let's talk about C, C++, Java, C#, OOP, and SQL.
+- 🎯 My goal is to become a skilled software engineer and build reliable, meaningful applications.
+- ⚡ I enjoy solving problems, even the ones my own code creates.
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Technologies |
+| :--- | :--- | :--- |
+| [Courier Management System](https://github.com/Farhan-Sijan/WebTech-Fall-2026-27/tree/main/Courier-Management-System/rider) | Web-based rider module for managing pickup and delivery tasks and updating parcel status. | HTML, CSS, JavaScript |
+| Restaurant Management System | Desktop application for managing restaurant orders, menus, customers, and payments. | C#, Windows Forms, SQL Server |
+| Programming & Problem Solving | Practice in programming fundamentals, algorithms, arrays, recursion, and problem solving. | C, C++ |
+
+<p align="center">
+  <a href="https://github.com/Farhan-Sijan?tab=repositories"><img src="https://img.shields.io/badge/Explore_My_Repositories-24292F?style=for-the-badge&logo=github&logoColor=white" alt="Explore my repositories" /></a>
+</p>
+
+---
+
+## 🛠️ Languages & Technologies
+
+#### Programming Languages
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45" height="45" alt="C" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="45" height="45" alt="C#" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45" alt="Java" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python" />
+</p>
+
+#### Web Development
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="45" height="45" alt="PHP" />
+</p>
+
+#### Databases, Frameworks & Developer Tools
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="45" height="45" alt="SQL Server" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="45" height="45" alt=".NET" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45" alt="Git" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45" alt="GitHub" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-original.svg" width="45" height="45" alt="Visual Studio" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45" height="45" alt="VS Code" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="45" height="45" alt="Figma" />
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=Farhan-Sijan&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" height="165" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Farhan-Sijan&layout=compact&theme=tokyonight&hide_border=true" alt="Most used repository languages" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Farhan-Sijan&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" width="520" />
+</p>
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Farhan-Sijan&theme=onedark&no-frame=true&margin-w=6&margin-h=6&column=6" alt="GitHub trophies" />
+</p>
+
+---
+
+## 📫 Let's Connect
+
+- **LinkedIn:** [Farhan Hasin Sijan](https://www.linkedin.com/in/farhan-hasin-sijan-a7ba7432b/)
+- **HackerRank:** [hasinsizan60](https://www.hackerrank.com/profile/hasinsizan60)
+- **Codeforces:** [Farhan_Sijan60](https://codeforces.com/profile/Farhan_Sijan60)
+- **Email:** [hasinsizan60@gmail.com](mailto:hasinsizan60@gmail.com)
+
+<p align="center">
+  <b>Thanks for visiting my profile!</b><br/>
+  <i>Stay curious. Keep learning. Build something meaningful.</i>
+</p>
